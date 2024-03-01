@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @danragozzine
-- 👀 I’m interested in data analytics 
-- 🌱 I’m currently learning more and building on my data knowledge 
-- 💞️ I’m looking to collaborate on anything 
-- 📫 How to reach me: check out my linkedin Dan Ragozzine 
+Hi there, my name is Dan. I am an aspiring data analyst. Here on Github I will post some of my projects, take a look!
 
 
 <!---
